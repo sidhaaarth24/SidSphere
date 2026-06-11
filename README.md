@@ -12,7 +12,7 @@ SidSphere is a personal portfolio website designed to showcase skills, projects,
 The project features an interactive terminal, theme switching, animated UI elements, and a fully responsive design.
 
 Preview:
-https://sidhaaarth24.github.io/SidSphere
+https://sidhaaarth24.github.io/sidsphere/
 
 ---
 
